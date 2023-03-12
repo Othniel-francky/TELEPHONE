@@ -8,8 +8,8 @@ body{
 }
 
 .container{
-    height: 538px;
-    width: 420px;
+    height: 534px;
+    width: 418px;
     border: 1px solid black;
     align-content: center;
     margin-left: 20px;
@@ -20,15 +20,23 @@ body{
 }
 
 .contain{
-    height: 534px;
-    width: 415px;
-    border: 1px solid red;
+    height: 528px;
+    width: 413px;
+   
     margin-left: 1px;
     margin-top: 1px;
     border-radius: 8%;
     display: flex;
     gap: 10px;
     background: #93BFEB;
+}
+
+.first img{
+    height: 21px;
+    width: 26px;
+    background: grey;
+    margin-top: 100px;
+    margin-left: 85px;
 }
 
 .camera{
@@ -143,7 +151,7 @@ body{
     margin-left: 3px;
     margin-top: 2px;
     border-radius: 10.5%;
-    background: black;
+    background: #316EE6;
 }
 
 .trait{
@@ -159,9 +167,7 @@ body{
 .barre{
     height: 5px;
     width: 150px;
-    border: 2px solid black;
-   /* background: linear-gradient(#14ffe9, #ffeb3b, #ff00e0)*/
-   background: #1a4ccb
+   
    color
 }
 
